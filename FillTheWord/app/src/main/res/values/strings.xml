@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FillTheWord</string>
+    <string name="textview_question">Question</string>
+    <string name="textview_questionNumber">1/100</string>
+    <string name="textview_score">Score: </string>
+    <string name="textview_time">Time: </string>
+    <string name="textview_timedisplay">00:00 </string>
+    <string name="submit">Submit</string>
+    <string name="enter_answer_here">Enter answer here</string>
+    <string name="textview_answer">Answer</string>
+    <string name="score_value">0</string>
+    <string name="textview_resultscore">Result</string>
+</resources>
